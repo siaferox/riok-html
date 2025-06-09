@@ -1,3 +1,3 @@
 function button(){
- document.getElementById("nyan").innerTxet = "ポチっとな";
+  document.getElementById("txet").innerText = "ポチっとな！";
 }
