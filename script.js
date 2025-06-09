@@ -1,3 +1,3 @@
-function button1(){
+function button(){
  document.getElementById("nyan").innerTxet = "ポチっとな";
 }
